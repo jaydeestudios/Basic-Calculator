@@ -14,10 +14,6 @@ A sleek, dark-themed calculator built with a focus on modern UI/UX principles an
 - **Backend Exploration:** Python 3.12
 
 ## 🚀 Live Demo
-Check out the live version here: [Your GitHub Pages Link Here]
-
-## 📸 Preview
-*(Tip: Once you take a screenshot of your calculator, you can upload it here!)*
-
+Check out the live version here:  https://jaydeestudios.github.io/Basic-Calculator/
 ---
 Developed as part of my Software Engineering journey. 🇬🇭
